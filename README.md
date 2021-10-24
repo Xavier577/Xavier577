@@ -21,4 +21,6 @@ I enjoy learning new things, meeting new people helping others and taking on cha
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: At the time of writing this i was 17 :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier577&layout=compact&theme=dark)](https://github.com/Xaiver577/github-readme-stats) [![Xavier577's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavier577&theme=dark)](https://github.com/xavier577/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier577&layout=compact&theme=dark)](https://github.com/Xaiver577/github-readme-stats)
+
+[![Xavier577's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavier577&theme=dark)](https://github.com/xavier577/github-readme-stats)
