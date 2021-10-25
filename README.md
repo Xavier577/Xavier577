@@ -8,7 +8,7 @@ I am a computer science student at FUTA 🧑‍🎓, web developer 👨‍💻 a
 I enjoy learning new things, meeting new people helping others and taking on challenges.
 
 - 🔭 I’m currently working on nipro, blitzQuiz and studyTime
-- 🌱 I’m currently learning nodejs, postgresl, mongodb
+- 🌱 I’m currently learning nodejs, Express and Databases 
 - 👯 I’m looking to collaborate on projects that interests me
 - 🤔 I’m looking for help with getting a job or an internship
 - 💬 Ask me about Javascript, Web, Typescript, React
