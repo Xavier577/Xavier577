@@ -14,8 +14,8 @@ I enjoy learning new things, meeting new people helping others and taking on cha
 - 💬 Ask me about Javascript, Typescript, React and all things web development
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/Xavier577)
   [![twitter_icon](./icons/twitter.svg)](https://twitter.com/Tsegs_tech)
-  <!-- [![gmail_icon](./icons/gmail.svg)](mailto:josephtsegen10@gmail.com) -->
-  <!-- [![hashnode_icon](./icons/hashnode.svg)](https://hashnode.com/@xavier577) -->
+  [![gmail_icon](./icons/gmail.svg)](mailto:josephtsegen10@gmail.com)
+  [![hashnode_icon](./icons/hashnode.svg)](https://hashnode.com/@xavier577)
   [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/joseph-tsegen-b023a11b8/)
   [![whatsapp_icon](./icons/whatsapp.svg)](https://wa.me/2348050896109)
 - 😄 Pronouns: He, His, Him
