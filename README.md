@@ -5,17 +5,17 @@
 </head>
 
 I am a computer science student at FUTA 🧑‍🎓, web developer 👨‍💻 and technical writer 🖊️.
-I enjoy learning new things, meeting new people helping others and taking on challenges.
+I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
 - 🔭 I’m currently working on nipro, blitzQuiz and studyTime
 - 🌱 I’m currently learning nodejs, postgresl, mongodb
 - 👯 I’m looking to collaborate on projects that interests me
+- 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577)
 - 🤔 I’m looking for help with getting a job or an internship
 - 💬 Ask me about Javascript, Typescript, React and all things web development
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/Xavier577)
   [![twitter_icon](./icons/twitter.svg)](https://twitter.com/Tsegs_tech)
   [![gmail_icon](./icons/gmail.svg)](mailto:josephtsegen10@gmail.com)
-  [![hashnode_icon](./icons/hashnode.svg)](https://hashnode.com/@xavier577)
   [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/joseph-tsegen-b023a11b8/)
   [![whatsapp_icon](./icons/whatsapp.svg)](https://wa.me/2348050896109)
 - 😄 Pronouns: He, His, Him
