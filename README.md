@@ -11,7 +11,7 @@ I enjoy learning new things, meeting new people, helping others and taking on ch
 - 🌱 I’m currently learning nodejs, postgresl, mongodb.
 - 👯 I’m looking to collaborate on upcoming startups.
 - 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)](https://dev.to/xavier577)
-- 🤔 I’m looking for help with getting a job or an internship
+- 🤔 I’m looking for a co-founder with similiar goals as me.
 - 💬 Ask me about Javascript, Typescript, React and all things web development
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/Xavier577)
   [![twitter_icon](./icons/twitter.svg)](https://twitter.com/Tsegs_tech)
