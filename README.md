@@ -8,7 +8,7 @@ I am a computer science student at FUTA 🧑‍🎓, web developer 👨‍💻 a
 I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
 - 🔭 I’m currently working on various freelance projects.
-- 🌱 I’m currently learning Docker,Prisma,Golang.
+- 🌱 I’m currently learning Docker,Golang, AWS and Cloud technologies.
 - 👯 I’m looking to collaborate on upcoming startups.
 - 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)](https://dev.to/xavier577)
 - 🤔 I’m looking for a co-founder with similiar goals as me.
