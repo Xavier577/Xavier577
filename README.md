@@ -17,7 +17,6 @@ I enjoy learning new things, meeting new people, helping others and taking on ch
   [![twitter_icon](./icons/twitter.svg)](https://twitter.com/Tsegs_tech)
   [![gmail_icon](./icons/gmail.svg)](mailto:josephtsegen10@gmail.com)
   [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/joseph-tsegen-b023a11b8/)
-  [![whatsapp_icon](./icons/whatsapp.svg)](https://wa.me/2348050896109)
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: I love computers.
 
