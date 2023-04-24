@@ -4,7 +4,7 @@
 <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
-I am a computer science student at FUTA 🧑‍🎓, web developer 👨‍💻 and technical writer 🖊️.
+I am a computer science student at FUTA 🧑‍🎓, Software Engineer 👨‍💻 and Technical Writer 🖊️.
 I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
 - 🔭 I’m currently working on various freelance projects.
