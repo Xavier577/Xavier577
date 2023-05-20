@@ -7,7 +7,7 @@
 I am a computer science student at FUTA 🧑‍🎓, Software Engineer 👨‍💻 and Technical Writer 🖊️.
 I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
-- 🔭 I’m currently working on various freelance projects.
+- 🔭 I’m currently working on myself rn 🙏🏽
 - 🌱 I’m currently learning Docker,Golang, AWS and Cloud technologies.
 - 👯 I’m looking to collaborate on upcoming startups.
 - 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)](https://dev.to/xavier577)
