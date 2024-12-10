@@ -14,7 +14,7 @@ I enjoy learning new things, meeting new people, helping others and taking on ch
 - 🤔 I’m looking for a co-founder with similiar goals as me.
 - 💬 Ask me about Javascript, Typescript, React, Nest, Backend and all things software engineering
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/Xavier577)
-  [![twitter_icon](./icons/twitter.svg)](https://twitter.com/Tsegs_tech)
+  [![twitter_icon](./icons/twitter.svg)](https://twitter.com/heisxavier577)
   [![gmail_icon](./icons/gmail.svg)](mailto:josephtsegen10@gmail.com)
   [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/joseph-tsegen-b023a11b8/)
 - 😄 Pronouns: He, His, Him
