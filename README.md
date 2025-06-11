@@ -4,15 +4,15 @@
 <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
-I am a computer science student at FUTA 🧑‍🎓, Software Engineer 👨‍💻 and Technical Writer 🖊️.
+I am a CS Grad 🧑‍🎓, Software Engineer 👨‍💻 and Technical Writer 🖊️.
 I enjoy learning new things, meeting new people, helping others and taking on challenges.
 
 - 🔭 I’m currently working on myself rn 🙏🏽
-- 🌱 I’m currently doing research and development.
-- 👯 I’m looking to collaborate on upcoming startups.
-- 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)](https://dev.to/xavier577)
-- 🤔 I’m looking for a co-founder with similiar goals as me.
-- 💬 Ask me about Javascript, Typescript, React, Nest, Backend and all things software engineering
+- 🌱 I’m currently learning about the Cloud Native World.
+- 👯 I’m looking to work on really interesting projects.
+- 🖊️I️️ write articles on [Medium](https://medium.com/@tsegstech10)
+- 🤔 I’m looking for what excites me.
+- 💬 Ask me about Typescript, React, Golang, Backend and all things software engineering
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/Xavier577)
   [![twitter_icon](./icons/twitter.svg)](https://twitter.com/heisxavier577)
   [![gmail_icon](./icons/gmail.svg)](mailto:josephtsegen10@gmail.com)
