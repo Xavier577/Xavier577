@@ -10,7 +10,7 @@ I enjoy learning new things, meeting new people, helping others and taking on ch
 - 🔭 I’m currently working on myself rn 🙏🏽
 - 🌱 I’m currently learning about the Cloud Native World.
 - 👯 I’m looking to work on really interesting projects.
-- 🖊️I️️ write articles on [Medium](https://medium.com/@tsegstech10)
+- 🖊️ I️️ write articles on [tsegen.sh/blog](https://tsegen.sh/blog)
 - 🤔 I’m looking for what excites me.
 - 💬 Ask me about Golang, Backend and all things software engineering
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/Xavier577)
